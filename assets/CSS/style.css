@@ -1,0 +1,22 @@
+#head {
+    background-color: #9d4edd;
+    font-weight: 1900 !important;
+    font-family: fantasy;
+    color: #00b4d8;
+}
+#card-head {
+    background-color: #00b4d8;
+}
+.card-header {
+    background-color:#9d4edd ;
+    color:#00b4d8;
+    font-weight: 900 !important;
+    font-family: fantasy;
+}
+.fas{
+    color: violet;
+}
+.card {
+    margin: 10px;
+    box-shadow: 0 4px 8px 0 rgba(15, 3, 3, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

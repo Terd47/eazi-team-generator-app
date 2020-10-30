@@ -142,9 +142,6 @@ class TeamGenerator {
         });
     }
 
-    nextQuestions(){ 
-    }
-
     // Create employee with role
     addTeamMembers(employee){
         
